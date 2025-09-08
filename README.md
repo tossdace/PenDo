@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="PenDo Banner" width="100%">
+</p>
 # PenDo
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Termux-green)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
