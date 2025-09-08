@@ -1,4 +1,10 @@
 # PenDo
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Termux-green)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Security](https://img.shields.io/badge/Security-Toolkit-orange)
+![OpenSource](https://img.shields.io/badge/Open%20Source-Yes-blueviolet)
 
 # 🕵️‍♂️ PenDo – The Ultimate Brute-Force Testing Framework
 
