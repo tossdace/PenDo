@@ -113,6 +113,16 @@ pip install colorama tqdm
 # Run PenDo
 python pendo_main.py --username admin --wordlist sample_wordlist.txt
 
+## 🤝 Contributing
+
+Pull requests are welcome!  
+Please:
+1. Fork the repo
+2. Create a feature branch
+3. Submit a PR with details
+
+Follow [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
+
 
 
 
