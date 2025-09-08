@@ -16,6 +16,12 @@
 
 PenDo (**Penetration Dojo**) is a **professional brute-force testing and security research tool** for penetration testers, red teamers, and cybersecurity enthusiasts.  
 It features a **matrix-style terminal UI, blazing-fast modular design, and clean codebase** ready for customization.  
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Termux-green)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Security](https://img.shields.io/badge/Security-Toolkit-orange)
+![OpenSource](https://img.shields.io/badge/Open%20Source-Yes-blueviolet)
 
 > ⚠️ Ethical Use Disclaimer:  
 > PenDo is strictly for **educational and authorized security testing**. Misuse is your responsibility.
