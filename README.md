@@ -30,8 +30,8 @@ It features a **matrix-style terminal UI, blazing-fast modular design, and clean
 
 ## 🚀 Features
 
-- 🔥 **Hacker-Style UI**: Green matrix terminal with ASCII art banners  
-- 🔑 **Brute Force Simulation**: Test passwords against dummy targets or your own systems  
+  
+- 🔑 **Brute Force **: Test passwords against  targets or your own systems  
 - 📂 **Wordlist Support**: Easily swap in custom password lists  
 - 🛠 **Modular Codebase**: Extend functionality in `utils/` folder  
 - ⚡ **Fast & Efficient**: Optimized loops with simulated delays  
@@ -113,7 +113,11 @@ pip install colorama tqdm
 # Run PenDo
 python pendo_main.py --username admin --wordlist sample_wordlist.txt
 
-## 🤝 Contributing
+
+
+
+
+ 🤝 Contributing
 
 Pull requests are welcome!  
 Please:
